@@ -3,7 +3,7 @@
 
 
 
-# Free-form language-based robotic reasoning and grasping (IROS 2025)
+# Free-form language-based robotic reasoning and grasping (IROS 2025)#仅作为复现代码，勿要参考
 This is the official repository for the paper: Free-form language-based robotic reasoning and grasping.
 
 Project webpage: https://tev-fbk.github.io/FreeGrasp/
